@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/vnt/robotics_corp/vnt-emb-ryobot/ros_test_workspace/devel -DCMAKE_INSTALL_PREFIX=/home/vnt/robotics_corp/vnt-emb-ryobot/ros_test_workspace/install -G Unix Makefiles
