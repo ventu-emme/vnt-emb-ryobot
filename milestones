@@ -1,0 +1,11 @@
+10) set up a workspace
+20) set up a simulation environment
+30) set up a planar robot in simulation
+40) implement navigation based on a static map
+-------------------------------------------------------------------------------
+50) implement SLAM
+-------------------------------------------------------------------------------
+60) add dynamic obstacles in simulation
+70) add sensors to the robot: laser scanners
+80) implement navigation with obstacle avoidance
+-------------------------------------------------------------------------------
