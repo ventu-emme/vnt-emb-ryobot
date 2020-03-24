@@ -7,7 +7,4 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/vnt/robotics_corp/vnt-emb-ryobot/ros_test_workspace/devel:$CMAKE_PREFIX_PATH"
 export PWD="/home/vnt/robotics_corp/vnt-emb-ryobot/ros_test_workspace/build"
-export ROSLISP_PACKAGE_DIRECTORIES="/home/vnt/robotics_corp/vnt-emb-ryobot/ros_test_workspace/devel/share/common-lisp"
-export ROS_PACKAGE_PATH="/home/vnt/robotics_corp/vnt-emb-ryobot/ros_test_workspace/src:$ROS_PACKAGE_PATH"

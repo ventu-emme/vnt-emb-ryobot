@@ -131,6 +131,7 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/vnt/robotics_corp/vnt-emb-ryobot/ros_test_workspace/build/gtest/cmake_install.cmake")
+  include("/home/vnt/robotics_corp/vnt-emb-ryobot/ros_test_workspace/build/beginner_tutorials/cmake_install.cmake")
 
 endif()
 

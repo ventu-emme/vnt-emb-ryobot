@@ -2,4 +2,4 @@
 source_root_dir = '/home/vnt/robotics_corp/vnt-emb-ryobot/ros_test_workspace/src'
 whitelisted_packages = ''.split(';') if '' != '' else []
 blacklisted_packages = ''.split(';') if '' != '' else []
-underlay_workspaces = '/opt/ros/melodic'.split(';') if '/opt/ros/melodic' != '' else []
+underlay_workspaces = '/home/vnt/robotics_corp/vnt-emb-ryobot/ros_test_workspace/devel;/opt/ros/melodic'.split(';') if '/home/vnt/robotics_corp/vnt-emb-ryobot/ros_test_workspace/devel;/opt/ros/melodic' != '' else []
