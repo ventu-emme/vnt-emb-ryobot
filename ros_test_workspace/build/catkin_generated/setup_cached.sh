@@ -8,3 +8,4 @@
 
 # modified environment variables
 export PWD="/home/vnt/robotics_corp/vnt-emb-ryobot/ros_test_workspace/build"
+export PYTHONPATH="/home/vnt/robotics_corp/vnt-emb-ryobot/ros_test_workspace/devel/lib/python2.7/dist-packages:$PYTHONPATH"
